@@ -1,0 +1,20 @@
+body {
+	background-color: darkblue;
+	color:hotpink;
+
+h1{
+	color: pink;
+	font-family:"Playwrite CU", cursive;
+	background-color: yellow;
+	text-align: center;
+}
+
+.s1{
+	color:greenyellow;
+}
+
+.s2{
+	color: chartreuse;
+}
+
+/*body {background-color}*/
